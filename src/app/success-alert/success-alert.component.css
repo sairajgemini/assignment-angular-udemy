@@ -1,0 +1,9 @@
+p {
+    width: 300px;
+    border: 25px solid deepskyblue;
+    background-color: lightskyblue;
+    padding: 25px;
+    margin: 25px;
+    text-shadow: 1px;
+    color: green;
+}
